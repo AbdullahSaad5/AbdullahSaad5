@@ -107,8 +107,7 @@
 
 
 ## Monthly Coding Time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Abdullah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdullahSaad5)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 

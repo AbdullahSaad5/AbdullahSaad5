@@ -106,8 +106,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
+## Monthly Coding Time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>  
 

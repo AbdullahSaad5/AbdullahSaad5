@@ -104,13 +104,13 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdullahsaad5&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<!-- 
 
 ## Monthly Coding Time
-[![Abdullah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdullahSaad5)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>  
- -->
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31o2tqbw4pkae4bcgywswebcyuqq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  

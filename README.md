@@ -107,6 +107,18 @@
 
 ## Monthly Coding Time
 <!--START_SECTION:waka-->
+
+```text
+From: 23 August 2022 - To: 24 August 2022
+
+Total Time: 4 hrs 2 mins
+
+CSS          2 hrs 15 mins   >>>>>>>>>>>>>>-----------   55.88 %
+JavaScript   56 mins         >>>>>>-------------------   23.36 %
+HTML         49 mins         >>>>>--------------------   20.49 %
+Other        0 secs          -------------------------   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>  

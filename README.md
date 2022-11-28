@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Final Year Project  
   
 
-- 🌱 I’m currently learning GraphQL  
+- 🌱 I’m currently learning Flutter  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

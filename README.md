@@ -108,16 +108,16 @@
 ## My Coding Time
 <!--START_SECTION:waka-->
 
-```text
-From: 23 August 2022 - To: 31 May 2023
+```txt
+From: 23 August 2022 - To: 01 June 2023
 
-Total Time: 697 hrs 17 mins
+Total Time: 701 hrs 21 mins
 
-JavaScript       574 hrs 46 mins >>>>>>>>>>>>>>>>>>>>>----   82.43 %
-HTML             40 hrs 19 mins  >------------------------   05.78 %
-C#               14 hrs 36 mins  >------------------------   02.09 %
-TypeScript       13 hrs 20 mins  -------------------------   01.91 %
-SCSS             11 hrs 51 mins  -------------------------   01.70 %
+JavaScript       578 hrs 22 mins >>>>>>>>>>>>>>>>>>>>>----   82.46 %
+HTML             40 hrs 19 mins  >------------------------   05.75 %
+C#               14 hrs 36 mins  >------------------------   02.08 %
+TypeScript       13 hrs 20 mins  -------------------------   01.90 %
+SCSS             11 hrs 51 mins  -------------------------   01.69 %
 ```
 
 <!--END_SECTION:waka-->

@@ -6,7 +6,7 @@
 ### <div align="center">I'm Abdullah, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working as a Team Lead and Full Stack Developer in MERN  
+- 🔭 I’m currently working as a Team Lead and Full Stack Developer at Decimal Solution  
   
 
 - 🌱 I’m currently working on Carflys

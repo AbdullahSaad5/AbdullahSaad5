@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Team Lead and Full Stack Developer in MERN  
   
 
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently working on Carflys
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

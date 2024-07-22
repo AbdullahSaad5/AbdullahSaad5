@@ -133,6 +133,7 @@ JSON              21 hrs 4 mins   -------------------------   01.07 %
 
 <!--END_SECTION:waka-->
 
+<!--
 <br/>  
 
 ## Spotify Listen History
@@ -143,7 +144,7 @@ JSON              21 hrs 4 mins   -------------------------   01.07 %
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abdullahsaad5&&style=flat-square" align="center" />
 </div>  
-  
+-->
 
 <br/>  
 

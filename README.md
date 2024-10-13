@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Team Lead and Full Stack Developer at Decimal Solution  
   
 
-- 🌱 I’m currently working on Carflys
+- 🌱 I’m currently working on QRexchange
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

@@ -120,13 +120,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2022 - To: 12 January 2025
+From: 23 August 2022 - To: 13 January 2025
 
-Total Time: 2,692 hrs 15 mins
+Total Time: 2,697 hrs 12 mins
 
-JavaScript        1,751 hrs 39 mins>>>>>>>>>>>>>>>>---------   65.06 %
-TypeScript        466 hrs 26 mins >>>>---------------------   17.33 %
-Dart              239 hrs 38 mins >>-----------------------   08.90 %
+JavaScript        1,751 hrs 42 mins>>>>>>>>>>>>>>>>---------   64.95 %
+TypeScript        470 hrs 40 mins >>>>---------------------   17.45 %
+Dart              240 hrs 11 mins >>-----------------------   08.91 %
 HTML              52 hrs 45 mins  -------------------------   01.96 %
 JSON              26 hrs 43 mins  -------------------------   00.99 %
 ```

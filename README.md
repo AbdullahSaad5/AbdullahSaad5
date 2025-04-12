@@ -6,7 +6,7 @@
 ### <div align="center">I'm Abdullah, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working as a Co-Founder/Team Lead and Full Stack Developer at Decimal Solution  
+- 🔭 I’m currently working as a Co-Founder and Full Stack Developer at Decimal Solution  
   
 
 - 🌱 I’m currently working on QRexchange

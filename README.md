@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Co-Founder and Full Stack Developer at Decimal Solution  
   
 
-- 🌱 I’m currently working on QRexchange
+- 🌱 I’m currently working on Leaf'em
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

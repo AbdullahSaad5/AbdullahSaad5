@@ -292,7 +292,7 @@ Other               43 hrs 32 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![Dev.to](https://img.shields.io/badge/-abdullahsaad5-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdullahsaad5)
 [![Stack Overflow](https://img.shields.io/badge/-Abdullah%20Saad-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17722487/syed-abdullah-saad)
 [![Instagram](https://img.shields.io/badge/-@syed__abdullah__saad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syed_abdullah_saad)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahsaad5official@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedabdulahsaad1@gmail.com)
 
 </div>
 

@@ -234,8 +234,7 @@ const abdullah = {
 - Mobile app connecting plant parents with plant sitters
 - Real-time plant care tracking and notifications
 - Community features for plant enthusiasts
-- AI-powered plant identification and care recommendations
-- Cross-platform Flutter application with Firebase backend
+- Cross-platform Flutter application with Node.js powered backend
 
 ### 🖥️ **BuildMyRig** - Gaming PC ERP & E-commerce (In Development)
 **Tech Stack:** MERN Stack

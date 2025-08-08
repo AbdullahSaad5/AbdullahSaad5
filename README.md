@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Enthusiast;%F0%9F%92%A1+Currently+crafting+Leaf'em;%E2%9A%A1+Spaces+over+tabs+forever!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Enthusiast;%F0%9F%92%A1+Currently+crafting+Leaf'em;%E2%9A%A1+Spaces+over+tabs+forever!;%F0%9F%94%A5+Turning+coffee+into+code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -34,18 +34,20 @@ const abdullah = {
         "Full Stack Development",
         "MERN Stack", 
         "System Architecture",
-        "Product Development"
+        "Product Development",
+        "How to automate everything except life decisions"
     ],
     
-    funFact: "I prefer spaces over tabs!",
+    funFact: "Built QR pipelines with AES encryption but still shares JPEGs",
     
     currentlyLearning: [
         "Advanced React Patterns",
         "Microservices Architecture", 
-        "AI/ML Integration"
+        "AI/ML Integration",
+        "How to explain proposals without ChatGPT"
     ],
     
-    lifePhilosophy: "Code with passion! 🐛➡️✨"
+    lifePhilosophy: "Code with passion, debug with coffee! ☕🐛➡️✨"
 };
 ```
 
@@ -53,15 +55,17 @@ const abdullah = {
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding"/>
 </div>
 
 **Quick Facts:**
 - 🔭 Co-Founder at **Decimal Solution**
-- 🌱 Building **Leaf'em** 
-- 💬 Ask me about **MERN Stack**
-- ⚡ **3,563+ hours** of coding
+- 🌱 Building **Leaf'em** & **Carflys**
+- 💬 Ask me about **MERN Stack** & **System Architecture**
+- ⚡ **3,563+ hours** of coding (and counting)
 - 🎯 **50.08%** JavaScript, **25.97%** TypeScript
+- 🏆 Leading teams, conducting interviews, running SCRUMs
+- 🤖 Built family trees but can't trace root of own problems
 
 </td>
 </tr>
@@ -79,6 +83,7 @@ const abdullah = {
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -86,7 +91,8 @@ const abdullah = {
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GoJS](https://img.shields.io/badge/-GoJS-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React Flow](https://img.shields.io/badge/-React_Flow-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
 
 </details>
 
@@ -101,8 +107,8 @@ const abdullah = {
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 </details>
 
@@ -117,6 +123,8 @@ const abdullah = {
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
 
@@ -133,6 +141,39 @@ const abdullah = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsaad5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsaad5&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 Achievements & Projects
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahsaad5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
+</div>
+
+### 🚗 **Carflys** - Automated Car Sales Platform
+- Built comprehensive dealership management system
+- Automated car sales processes and inventory management
+- Integrated payment gateways and customer management
+
+### 🌿 **Leaf'em** - Current Project
+- Revolutionary platform in development
+- Cutting-edge technology stack implementation
+- Focus on user experience and scalability
+
+### 📊 **CLMS** - Customer Lifecycle Management
+- Complete customer journey automation
+- Advanced analytics and reporting
+- Multi-channel integration capabilities
+
+### 🔐 **QR Pipeline with AES Encryption**
+- Advanced security implementation with AES encryption
+- Zlib compression for optimized data handling
+- Binary wizardry for maximum efficiency
+- Flutter integration with Share Plus
+
 ---
 
 ## ⏰ My Coding Journey
@@ -144,22 +185,14 @@ From: 23 August 2022 - To: 06 August 2025
 
 Total Time: 3,563 hrs 10 mins
 
-JavaScript          1,784 hrs 17 mins>>>>>>>>>>>>>------------   50.08 %
-TypeScript          925 hrs 13 mins >>>>>>-------------------   25.97 %
-Dart                557 hrs 19 mins >>>>---------------------   15.64 %
-HTML                55 hrs 34 mins  -------------------------   01.56 %
-Other               42 hrs 46 mins  -------------------------   01.20 %
+JavaScript          1,784 hrs 17 mins ████████████████████████▓   50.08 %
+TypeScript          925 hrs 13 mins  ████████████▓░░░░░░░░░░░░   25.97 %
+Dart                557 hrs 19 mins  ████████░░░░░░░░░░░░░░░░░   15.64 %
+HTML                55 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other               42 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahsaad5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -173,6 +206,7 @@ Other               42 hrs 46 mins  -------------------------   01.20 %
 [![Dev.to](https://img.shields.io/badge/-abdullahsaad5-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdullahsaad5)
 [![Stack Overflow](https://img.shields.io/badge/-Abdullah%20Saad-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17722487/syed-abdullah-saad)
 [![Instagram](https://img.shields.io/badge/-@syed__abdullah__saad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syed_abdullah_saad)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahsaad5official@gmail.com)
 
 </div>
 
@@ -184,6 +218,9 @@ Other               42 hrs 46 mins  -------------------------   01.20 %
   <a href="https://www.buymeacoffee.com/abdullahsaad5" target="_blank">
     <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
   </a>
+  <a href="https://ko-fi.com/abdullahsaad5" target="_blank">
+    <img src="https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
 </div>
 
 ---
@@ -194,4 +231,11 @@ Other               42 hrs 46 mins  -------------------------   01.20 %
 
 <div align="center">
   <h3>✨ "Code is like humor. When you have to explain it, it's bad." ✨</h3>
+  <p><i>Building the future one commit at a time 🚀</i></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>

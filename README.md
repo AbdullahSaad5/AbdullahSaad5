@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:648880,100:293251&height=300&section=header&text=Abdullah%20Saad&fontSize=80&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Co-Founder%20at%20Decimal%20Solution&descAlign=50&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Abdullah%20Saad&fontSize=80&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Co-Founder%20at%20Decimal%20Solution&descAlign=50&descAlignY=55&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -189,7 +189,7 @@ Other               42 hrs 46 mins  -------------------------   01.20 %
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:648880,100:293251&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&animation=fadeIn" />
 </div>
 
 <div align="center">

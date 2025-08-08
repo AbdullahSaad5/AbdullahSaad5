@@ -35,25 +35,20 @@ const abdullah = {
         "MERN Stack", 
         "System Architecture",
         "Product Development",
-        "How to automate everything except life decisions",
-        "Why my code works on my machine but not yours"
+        "How to automate everything except life decisions"
     ],
     
     funFact: "Built QR pipelines with AES encryption" +
-             " but still shares screenshots as JPEGs 🤦‍♂️",
+             " but still shares screenshots as JPEGs",
     
     currentlyLearning: [
         "Advanced React Patterns",
         "Microservices Architecture", 
         "AI/ML Integration",
-        "How to explain technical stuff without ChatGPT",
-        "Why clients think websites are magic"
+        "How to explain technical stuff without ChatGPT"
     ],
     
-    lifePhilosophy: "Code with passion, debug with coffee! ☕🐛➡️✨",
-    
-    // TODO: Fix this function called 'life'
-    workLifeBalance: () => "What's that? 🤔"
+    lifePhilosophy: "Code with passion, debug with coffee! ☕🐛➡️✨"
 };
 ```
 
@@ -67,12 +62,11 @@ const abdullah = {
 **Quick Facts:**
 - 🔭 Co-Founder at **Decimal Solution**
 - 🌱 Building **Leaf'em** & **BuildMyRig**
-- 💬 Ask me about **MERN Stack** (I promise I won't bite)
+- 💬 Ask me about **MERN Stack**
 - ⚡ **3,563+ hours** of coding (and counting...)
 - 🎯 **50.08%** JS, **25.97%** TS *(Updated via WakaTime)*
 - 🏆 Leading teams & running SCRUMs
 - 🤖 Built family trees but can't trace the root of own problems
-- 🍕 Powered by pizza and existential dread
 
 </td>
 </tr>
@@ -81,65 +75,130 @@ const abdullah = {
 ---
 
 ## 🛠️ Tech Arsenal
-*"My weapons of choice for digital warfare"*
 
 <details open>
-<summary><b>🎨 Frontend Technologies</b></summary>
+<summary><b>💻 Programming Languages</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Frameworks & Libraries</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Recharts](https://img.shields.io/badge/-Recharts-8884D8?style=for-the-badge&logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![GoJS](https://img.shields.io/badge/-GoJS-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React Flow](https://img.shields.io/badge/-React_Flow-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Technologies</b></summary>
+<summary><b>🗄️ Databases & ORM</b></summary>
 <br>
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🚀 DevOps & Tools</b></summary>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Utilities</b></summary>
+<br>
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WakaTime](https://img.shields.io/badge/-WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>🧪 Testing & Quality Assurance</b></summary>
+<br>
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎯 Additional Skills & Tools</b></summary>
+<br>
+
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 </details>
 
 ---
 
 ## 📊 GitHub Analytics
-*"Numbers don't lie, but they don't tell the whole story either"*
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahsaad5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -157,47 +216,54 @@ const abdullah = {
 ---
 
 ## 🏆 Achievements & Projects
-*"Building digital empires, one repository at a time"*
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdullahsaad5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
 
-### 🚗 **Carflys** - Automated Car Sales Platform
-- Built comprehensive dealership management system
-- Automated car sales processes and inventory management
-- Integrated payment gateways and customer management
-- *"Making car buying less painful than debugging CSS"*
+### 🚗 **Carflys** - Online Car Financing System
+**Tech Stack:** MERN + Next.js
+- Complete car financing platform with loan processing
+- Automated credit scoring and approval workflows
+- Integration with financial institutions and payment gateways
+- Real-time loan tracking and customer dashboard
+- Built with Next.js, React, Node.js, Express, and MongoDB
 
-### 🌿 **Leaf'em** - Revolutionary Platform (In Development)
-- Cutting-edge technology stack implementation
-- Focus on user experience and scalability
-- Advanced features that will blow your mind
-- *"Still figuring out what it does, but it's gonna be awesome!"*
+### 🌿 **Leaf'em** - Plant Care Mobile App (In Development)
+**Tech Stack:** Flutter
+- Mobile app connecting plant parents with plant sitters
+- Real-time plant care tracking and notifications
+- Community features for plant enthusiasts
+- AI-powered plant identification and care recommendations
+- Cross-platform Flutter application with Firebase backend
 
-### 🖥️ **BuildMyRig** - PC Building Platform (In Development)
-- Comprehensive PC component compatibility checker
-- Price comparison and optimization engine
-- Build guides and recommendations system
-- *"Because building PCs shouldn't require a PhD in hardware"*
+### 🖥️ **BuildMyRig** - Gaming PC ERP & E-commerce (In Development)
+**Tech Stack:** MERN Stack
+- Complete ERP system for gaming PC parts warehouse
+- E-commerce store with compatibility checking
+- Inventory management and supplier integration
+- Custom PC builder with real-time pricing
+- Built with React, Node.js, Express, and MongoDB
 
-### 📊 **CLMS** - Customer Lifecycle Management
-- Complete customer journey automation
-- Advanced analytics and reporting
-- Multi-channel integration capabilities
-- *"Turning customer chaos into organized madness"*
+### 📊 **CLMS** - Comprehensive Dealership Management System
+**Tech Stack:** MERN Stack
+- End-to-end dealership operations management
+- Customer relationship management and lead tracking
+- Inventory management with automated reordering
+- Sales analytics and performance dashboards
+- Multi-location support with role-based access control
 
-### 🔐 **QR Pipeline with AES Encryption**
-- Advanced security implementation with AES encryption
-- Zlib compression for optimized data handling
-- Binary wizardry for maximum efficiency
-- Flutter integration with Share Plus
-- *"Secure enough to protect state secrets, used for sharing memes"*
+### 🔐 **QR Exchange** - Encrypted Messaging via QR Codes
+**Tech Stack:** Flutter + Real-time Messaging
+- Secure real-time messaging through QR code exchange
+- AES encryption with zlib compression
+- Offline message queuing and synchronization
+- Binary data optimization for QR code efficiency
+- Flutter app with Socket.io for real-time communication
 
 ---
 
 ## ⏰ My Coding Journey
-*"Tracking my descent into madness, one keystroke at a time"*
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -205,7 +271,6 @@ const abdullah = {
 ---
 
 ## 🤝 Let's Connect & Collaborate
-*"Warning: May respond with memes and technical jargon"*
 
 <div align="center">
 
@@ -224,43 +289,16 @@ const abdullah = {
 <div align="center">
 
 ## 💭 Developer Wisdom
-*"Collected from years of debugging and existential crises"*
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎭 Code Philosophy
-```javascript
-// My daily workflow
-const developer = {
-    morning: "Coffee++",
-    afternoon: "Code && Debug",
-    evening: "Why doesn't this work?",
-    night: "Oh wait, I forgot a semicolon",
-    repeat: true
-};
-
-// Error handling in real life
-try {
-    makeItWork();
-} catch (error) {
-    console.log("It's not a bug, it's a feature!");
-}
-```
-
-</td>
-<td align="center" width="50%">
+<div align="center" width="100%">
 
 ### 🔥 Daily Motivation
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
 
 ### 🎯 Fun Fact
-*"I can build complex distributed systems but still Google 'how to center a div'"*
+**"I can build complex distributed systems but still Google 'how to center a div'"**
 
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
@@ -273,8 +311,7 @@ try {
 <div align="center">
   
 ### 🚀 *"Building the future one commit at a time"* 🚀
-### 💻 *"Powered by caffeine, curiosity, and Stack Overflow"* ☕
   
-**Made with ❤️, lots of ☕, and a healthy dose of imposter syndrome by Abdullah Saad**
+**Made with ❤️ and lots of ☕ by Abdullah Saad**
 
 </div>

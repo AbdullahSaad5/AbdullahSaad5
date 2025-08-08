@@ -206,7 +206,7 @@ const abdullah = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsaad5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdullahsaad5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -234,7 +234,7 @@ const abdullah = {
 - Mobile app connecting plant parents with plant sitters
 - Real-time plant care tracking and notifications
 - Community features for plant enthusiasts
-- Cross-platform Flutter application with Node.js powered backend
+- Cross-platform Flutter application with Firebase backend
 
 ### 🖥️ **BuildMyRig** - Gaming PC ERP & E-commerce (In Development)
 **Tech Stack:** MERN Stack
@@ -265,19 +265,6 @@ const abdullah = {
 ## ⏰ My Coding Journey
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 23 August 2022 - To: 08 August 2025
-
-Total Time: 3,578 hrs 5 mins
-
-JavaScript          1,785 hrs 27 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.90 %
-TypeScript          936 hrs 36 mins ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.18 %
-Dart                557 hrs 19 mins ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.58 %
-HTML                55 hrs 34 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.55 %
-Other               43 hrs 32 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.22 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -292,7 +279,7 @@ Other               43 hrs 32 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![Dev.to](https://img.shields.io/badge/-abdullahsaad5-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdullahsaad5)
 [![Stack Overflow](https://img.shields.io/badge/-Abdullah%20Saad-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17722487/syed-abdullah-saad)
 [![Instagram](https://img.shields.io/badge/-@syed__abdullah__saad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syed_abdullah_saad)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedabdullahsaad1@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahsaad5official@gmail.com)
 
 </div>
 
@@ -319,6 +306,5 @@ Other               43 hrs 32 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&animation=fadeIn" />
 </div>
-
 
 </div>

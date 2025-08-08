@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Enthusiast;%F0%9F%92%A1+Currently+crafting+Leaf'em;%E2%9A%A1+Spaces+over+tabs+forever!;%F0%9F%94%A5+Turning+coffee+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Enthusiast;%F0%9F%92%A1+Currently+crafting+Leaf'em+%26+BuildMyRig;%E2%9A%A1+Spaces+over+tabs+forever!;%F0%9F%94%A5+Turning+coffee+into+code+since+2022" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@ const abdullah = {
     pronouns: "he" | "him",
     role: "Co-Founder & Full Stack Developer",
     company: "Decimal Solution",
-    currentProject: "Leaf'em",
+    currentProjects: ["Leaf'em", "BuildMyRig"],
     location: "Pakistan 🇵🇰",
     
     askMeAbout: [
@@ -35,20 +35,25 @@ const abdullah = {
         "MERN Stack", 
         "System Architecture",
         "Product Development",
-        "Automating everything except life decisions"
+        "How to automate everything except life decisions",
+        "Why my code works on my machine but not yours"
     ],
     
     funFact: "Built QR pipelines with AES encryption" +
-             " but still shares JPEGs",
+             " but still shares screenshots as JPEGs 🤦‍♂️",
     
     currentlyLearning: [
         "Advanced React Patterns",
         "Microservices Architecture", 
         "AI/ML Integration",
-        "How to explain proposals without ChatGPT"
+        "How to explain technical stuff without ChatGPT",
+        "Why clients think websites are magic"
     ],
     
-    lifePhilosophy: "Code with passion, debug with coffee! ☕🐛➡️✨"
+    lifePhilosophy: "Code with passion, debug with coffee! ☕🐛➡️✨",
+    
+    // TODO: Fix this function called 'life'
+    workLifeBalance: () => "What's that? 🤔"
 };
 ```
 
@@ -61,12 +66,13 @@ const abdullah = {
 
 **Quick Facts:**
 - 🔭 Co-Founder at **Decimal Solution**
-- 🌱 Building **Leaf'em** & **Carflys**
-- 💬 Ask me about **MERN Stack**
-- ⚡ **3,563+ hours** of coding
-- 🎯 **50.08%** JS, **25.97%** TS
+- 🌱 Building **Leaf'em** & **BuildMyRig**
+- 💬 Ask me about **MERN Stack** (I promise I won't bite)
+- ⚡ **3,563+ hours** of coding (and counting...)
+- 🎯 **50.08%** JS, **25.97%** TS *(Updated via WakaTime)*
 - 🏆 Leading teams & running SCRUMs
-- 🤖 Built family trees but can't trace root of own problems
+- 🤖 Built family trees but can't trace the root of own problems
+- 🍕 Powered by pizza and existential dread
 
 </td>
 </tr>
@@ -75,6 +81,7 @@ const abdullah = {
 ---
 
 ## 🛠️ Tech Arsenal
+*"My weapons of choice for digital warfare"*
 
 <details open>
 <summary><b>🎨 Frontend Technologies</b></summary>
@@ -132,6 +139,7 @@ const abdullah = {
 ---
 
 ## 📊 GitHub Analytics
+*"Numbers don't lie, but they don't tell the whole story either"*
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahsaad5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -149,6 +157,7 @@ const abdullah = {
 ---
 
 ## 🏆 Achievements & Projects
+*"Building digital empires, one repository at a time"*
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdullahsaad5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
@@ -158,46 +167,45 @@ const abdullah = {
 - Built comprehensive dealership management system
 - Automated car sales processes and inventory management
 - Integrated payment gateways and customer management
+- *"Making car buying less painful than debugging CSS"*
 
-### 🌿 **Leaf'em** - Current Project
-- Revolutionary platform in development
+### 🌿 **Leaf'em** - Revolutionary Platform (In Development)
 - Cutting-edge technology stack implementation
 - Focus on user experience and scalability
+- Advanced features that will blow your mind
+- *"Still figuring out what it does, but it's gonna be awesome!"*
+
+### 🖥️ **BuildMyRig** - PC Building Platform (In Development)
+- Comprehensive PC component compatibility checker
+- Price comparison and optimization engine
+- Build guides and recommendations system
+- *"Because building PCs shouldn't require a PhD in hardware"*
 
 ### 📊 **CLMS** - Customer Lifecycle Management
 - Complete customer journey automation
 - Advanced analytics and reporting
 - Multi-channel integration capabilities
+- *"Turning customer chaos into organized madness"*
 
 ### 🔐 **QR Pipeline with AES Encryption**
 - Advanced security implementation with AES encryption
 - Zlib compression for optimized data handling
 - Binary wizardry for maximum efficiency
 - Flutter integration with Share Plus
+- *"Secure enough to protect state secrets, used for sharing memes"*
 
 ---
 
 ## ⏰ My Coding Journey
+*"Tracking my descent into madness, one keystroke at a time"*
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 23 August 2022 - To: 07 August 2025
-
-Total Time: 3,571 hrs 51 mins
-
-JavaScript          1,785 hrs 27 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.99 %
-TypeScript          931 hrs 32 mins ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.08 %
-Dart                557 hrs 19 mins ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.60 %
-HTML                55 hrs 34 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.56 %
-Other               43 hrs 18 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.21 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
+*"Warning: May respond with memes and technical jargon"*
 
 <div align="center">
 
@@ -214,16 +222,59 @@ Other               43 hrs 18 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&animation=fadeIn" />
-</div>
 
-<div align="center">
-  <h3>✨ "Code is like humor. When you have to explain it, it's bad." ✨</h3>
-  <p><i>Building the future one commit at a time 🚀</i></p>
+## 💭 Developer Wisdom
+*"Collected from years of debugging and existential crises"*
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎭 Code Philosophy
+```javascript
+// My daily workflow
+const developer = {
+    morning: "Coffee++",
+    afternoon: "Code && Debug",
+    evening: "Why doesn't this work?",
+    night: "Oh wait, I forgot a semicolon",
+    repeat: true
+};
+
+// Error handling in real life
+try {
+    makeItWork();
+} catch (error) {
+    console.log("It's not a bug, it's a feature!");
+}
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🔥 Daily Motivation
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
+
+### 🎯 Fun Fact
+*"I can build complex distributed systems but still Google 'how to center a div'"*
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&animation=fadeIn" />
+</div>
+
+<div align="center">
+  
+### 🚀 *"Building the future one commit at a time"* 🚀
+### 💻 *"Powered by caffeine, curiosity, and Stack Overflow"* ☕
+  
+**Made with ❤️, lots of ☕, and a healthy dose of imposter syndrome by Abdullah Saad**
+
 </div>

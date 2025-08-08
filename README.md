@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Abdullah%20Saad&fontSize=90&fontAlign=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Co-Founder%20%40%20Decimal%20Solution&descAlign=70&descAlignY=51&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:648880,100:293251&height=300&section=header&text=Abdullah%20Saad&fontSize=80&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Co-Founder%20at%20Decimal%20Solution&descAlign=50&descAlignY=55&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Enthusiast;%F0%9F%92%A1+Currently+crafting+Leaf'em;%E2%9A%A1+Spaces+over+tabs+forever!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Enthusiast;%F0%9F%92%A1+Currently+crafting+Leaf'em;%E2%9A%A1+Spaces+over+tabs+forever!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,9 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```typescript
 const abdullah = {
@@ -30,22 +32,40 @@ const abdullah = {
     
     askMeAbout: [
         "Full Stack Development",
-        "MERN Stack",
+        "MERN Stack", 
         "System Architecture",
         "Product Development"
     ],
     
-    funFact: "I prefer spaces over tabs (fight me! 😄)",
+    funFact: "I prefer spaces over tabs!",
     
     currentlyLearning: [
         "Advanced React Patterns",
-        "Microservices Architecture",
+        "Microservices Architecture", 
         "AI/ML Integration"
     ],
     
-    lifePhilosophy: "Code with passion, debug with patience! 🐛➡️✨"
+    lifePhilosophy: "Code with passion! 🐛➡️✨"
 };
 ```
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding"/>
+</div>
+
+**Quick Facts:**
+- 🔭 Co-Founder at **Decimal Solution**
+- 🌱 Building **Leaf'em** 
+- 💬 Ask me about **MERN Stack**
+- ⚡ **3,563+ hours** of coding
+- 🎯 **50.08%** JavaScript, **25.97%** TypeScript
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -169,7 +189,7 @@ Other               42 hrs 46 mins  -------------------------   01.20 %
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlign=50&fontAlignY=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:648880,100:293251&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&animation=twinkling" />
 </div>
 
 <div align="center">

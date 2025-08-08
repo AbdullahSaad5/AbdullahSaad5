@@ -308,7 +308,7 @@ Other               43 hrs 32 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
 
 ### 🎯 Fun Fact
-**"I can build complex distributed systems but still Google 'how to center a div'"**
+**"I build distributed systems, but still Google basic string concatenation like my career depends on it."**
 
 </div>
 

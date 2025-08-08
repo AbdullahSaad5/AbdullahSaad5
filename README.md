@@ -321,10 +321,5 @@ Other               43 hrs 32 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&animation=fadeIn" />
 </div>
 
-<div align="center">
-  
-### 🚀 *"Building the future one commit at a time"* 🚀
-  
-**Made with ❤️ and lots of ☕ by Abdullah Saad**
 
 </div>

@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Enthusiast;%F0%9F%92%A1+Currently+crafting+Leaf'em;%E2%9A%A1+Spaces+over+tabs+forever!;%F0%9F%94%A5+Turning+coffee+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Enthusiast;%F0%9F%92%A1+Currently+crafting+Leaf'em;%E2%9A%A1+Spaces+over+tabs+forever!;%F0%9F%94%A5+Turning+coffee+into+code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ```typescript
 const abdullah = {
@@ -35,10 +35,11 @@ const abdullah = {
         "MERN Stack", 
         "System Architecture",
         "Product Development",
-        "How to automate everything except life decisions"
+        "Automating everything except life decisions"
     ],
     
-    funFact: "Built QR pipelines with AES encryption but still shares JPEGs",
+    funFact: "Built QR pipelines with AES encryption" +
+             " but still shares JPEGs",
     
     currentlyLearning: [
         "Advanced React Patterns",
@@ -52,19 +53,19 @@ const abdullah = {
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
 </div>
 
 **Quick Facts:**
 - 🔭 Co-Founder at **Decimal Solution**
 - 🌱 Building **Leaf'em** & **Carflys**
-- 💬 Ask me about **MERN Stack** & **System Architecture**
-- ⚡ **3,563+ hours** of coding (and counting)
-- 🎯 **50.08%** JavaScript, **25.97%** TypeScript
-- 🏆 Leading teams, conducting interviews, running SCRUMs
+- 💬 Ask me about **MERN Stack**
+- ⚡ **3,563+ hours** of coding
+- 🎯 **50.08%** JS, **25.97%** TS
+- 🏆 Leading teams & running SCRUMs
 - 🤖 Built family trees but can't trace root of own problems
 
 </td>
@@ -179,19 +180,6 @@ const abdullah = {
 ## ⏰ My Coding Journey
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 23 August 2022 - To: 06 August 2025
-
-Total Time: 3,563 hrs 10 mins
-
-JavaScript          1,784 hrs 17 mins ████████████████████████▓   50.08 %
-TypeScript          925 hrs 13 mins  ████████████▓░░░░░░░░░░░░   25.97 %
-Dart                557 hrs 19 mins  ████████░░░░░░░░░░░░░░░░░   15.64 %
-HTML                55 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Other               42 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -208,19 +196,6 @@ Other               42 hrs 46 mins   ▓░░░░░░░░░░░░░�
 [![Instagram](https://img.shields.io/badge/-@syed__abdullah__saad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syed_abdullah_saad)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahsaad5official@gmail.com)
 
-</div>
-
----
-
-## 💝 Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/abdullahsaad5" target="_blank">
-    <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/abdullahsaad5" target="_blank">
-    <img src="https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
 </div>
 
 ---

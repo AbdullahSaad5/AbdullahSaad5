@@ -267,9 +267,9 @@ const abdullah = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2022 - To: 25 November 2025
+From: 23 August 2022 - To: 26 November 2025
 
-Total Time: 4,060 hrs 37 mins
+Total Time: 4,061 hrs 2 mins
 
 JavaScript          1,802 hrs 15 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.38 %
 TypeScript          1,222 hrs 46 mins⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.11 %

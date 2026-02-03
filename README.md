@@ -26,8 +26,8 @@
 const abdullah = {
     pronouns: "he" | "him",
     role: "Co-Founder & Full Stack Developer",
-    company: "Decimal Solution",
-    currentProjects: ["Leaf'em", "BuildMyRig"],
+    company: "dtcforce",
+    currentProjects: ["Scopien AI", "Leaf'em"],
     location: "Pakistan 🇵🇰",
     
     askMeAbout: [
@@ -60,6 +60,7 @@ const abdullah = {
 </div>
 
 **Quick Facts:**
+- 👨🏻‍💻 Web Developer at **dtcforce**
 - 🔭 Co-Founder at **Decimal Solution**
 - 🌱 Building **Leaf'em** & **BuildMyRig**
 - 💬 Ask me about **MERN Stack**

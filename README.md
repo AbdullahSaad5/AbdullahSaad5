@@ -268,15 +268,15 @@ const abdullah = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2022 - To: 25 April 2026
+From: 24 August 2022 - To: 26 April 2026
 
-Total Time: 4,443 hrs 20 mins
+Total Time: 4,449 hrs 7 mins
 
-JavaScript                 1,812 hrs 59 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.80 %
-TypeScript                 1,488 hrs 8 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.49 %
-Dart                       666 hrs 5 mins        ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.99 %
-Other                      88 hrs 34 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.99 %
-JSON                       76 hrs 59 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.73 %
+JavaScript                 1,813 hrs 7 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.75 %
+TypeScript                 1,493 hrs 10 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.56 %
+Dart                       666 hrs 5 mins        ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.97 %
+Other                      88 hrs 47 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.00 %
+JSON                       77 hrs                ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.73 %
 ```
 
 <!--END_SECTION:waka-->

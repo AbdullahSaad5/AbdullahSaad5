@@ -268,7 +268,7 @@ const abdullah = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2022 - To: 07 June 2026
+From: 24 August 2022 - To: 08 June 2026
 
 Total Time: 4,687 hrs 10 mins
 

@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
-  <img alt="Abdullah Saad — AI Engineer, Full-Stack" src="./banner-dark.png" width="100%">
+  <img alt="Abdullah Saad, AI Engineer and Full-Stack Developer" src="./banner-dark.png" width="100%">
 </picture>
 
 [Portfolio](https://abdullahsaad5.github.io) &nbsp;·&nbsp; [Writing](https://dev.to/abdullahsaad5) &nbsp;·&nbsp; [Medium](https://medium.com/@abdullahsaad5) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/abdullahsaad5)

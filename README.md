@@ -20,6 +20,7 @@ Before the AI work I shipped hard full-stack product: car financing with real lo
 
 Putting AI agents into production. The engineering is real, the employer internals stay out of it.
 
+- **[I'm shipping the best work of my career. None of it feels like mine.](https://dev.to/abdullahsaad5/im-shipping-the-best-work-of-my-career-none-of-it-feels-like-mine-4ehn)** &nbsp;·&nbsp; AI made me faster and the work better, and somewhere in there it stopped feeling like mine. The honest trade underneath that.
 - **[I built an abstraction so my agent could write documents. Then I deleted it.](https://dev.to/abdullahsaad5/i-built-an-abstraction-so-my-agent-could-write-documents-then-i-deleted-it-5687)** &nbsp;·&nbsp; A wrapper let the agent write a deck in five lines, and made every deck look the same. Why the constraint, not the abstraction, made the work good.
 - **[The hard part of my AI agent wasn't doing the work, it was planning it](https://dev.to/abdullahsaad5/the-hard-part-of-my-ai-agent-wasnt-doing-the-work-it-was-planning-it-n0k)** &nbsp;·&nbsp; Plan mode: an agent that shows you every step, and which account each one touches, before it runs anything.
 - **[Why my AI agent kept writing to the wrong client's Salesforce](https://dev.to/abdullahsaad5/why-my-ai-agent-kept-writing-to-the-wrong-clients-salesforce-3aan)** &nbsp;·&nbsp; Identity, and the wrong-account problem when one agent serves many clients.

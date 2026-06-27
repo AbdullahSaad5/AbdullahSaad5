@@ -6,7 +6,7 @@
   <img alt="Abdullah Saad, AI Engineer and Full-Stack Developer" src="./banner-dark.png" width="100%">
 </picture>
 
-[Portfolio](https://abdullahsaad5.github.io) &nbsp;·&nbsp; [Writing](https://dev.to/abdullahsaad5) &nbsp;·&nbsp; [Medium](https://medium.com/@abdullahsaad5) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/abdullahsaad5)
+[Portfolio](https://abdullahsaad5.github.io) &nbsp;·&nbsp; [Writing](https://dev.to/abdullahsaad5) &nbsp;·&nbsp; [Medium](https://medium.com/@abdullahsaad5) &nbsp;·&nbsp; [Hashnode](https://abdullahsaad5.hashnode.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/abdullahsaad5)
 
 </div>
 
@@ -25,7 +25,7 @@ Putting AI agents into production. The engineering is real, the employer interna
 - **[The hard part of my AI agent wasn't doing the work, it was planning it](https://dev.to/abdullahsaad5/the-hard-part-of-my-ai-agent-wasnt-doing-the-work-it-was-planning-it-n0k)** &nbsp;·&nbsp; Plan mode: an agent that shows you every step, and which account each one touches, before it runs anything.
 - **[Why my AI agent kept writing to the wrong client's Salesforce](https://dev.to/abdullahsaad5/why-my-ai-agent-kept-writing-to-the-wrong-clients-salesforce-3aan)** &nbsp;·&nbsp; Identity, and the wrong-account problem when one agent serves many clients.
 
-More on [dev.to](https://dev.to/abdullahsaad5) and [Medium](https://medium.com/@abdullahsaad5).
+More on [dev.to](https://dev.to/abdullahsaad5), [Medium](https://medium.com/@abdullahsaad5), and [Hashnode](https://abdullahsaad5.hashnode.dev).
 
 ## Building
 
@@ -67,6 +67,7 @@ JSON                       80 hrs 26 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahsaad5)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/abdullahsaad5)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abdullahsaad5)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://abdullahsaad5.hashnode.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://abdullahsaad5.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedabdullahsaad1@gmail.com)
 
